@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>Sri Poojitha.Busireddy</b>
-- 👩‍🎓Final year UG in Department of <b>Computer Science and Engineering</b><br>
-- 👀 I’m interested in <b>Cloud Computing & Machine learning</b>
+- 👩‍🎓Completed UG in the Department of <b>Computer Science and Engineering</b><br>
+- 👀 I’m interested in <b>Data Science and Full Stack</b>
 - 📚 I’m currently working on <b>Data Structures and Algorithms</b>
 - 👧 Pronoun: she/her.
 - 📃 My Resume :[pooja_resume_Fin.pdf](https://github.com/user-attachments/files/17131735/pooja_resume_Fin.pdf)
